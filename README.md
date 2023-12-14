@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InvinsibleFox
-- 👀 I’m interested in Java, C++, python and VHDL
+- 👀 I’m interested in C++, python and VHDL
 - 🌱 I’m currently learning Embedded system
 - 💞️ I’m looking to collaborate on Embedded system and AI
 - 📫 How to reach me: you call contrac me by Email tranducminhlv@gmail.com
